@@ -14,7 +14,7 @@ import java.util.Collections;
 
 import static org.junit.Assert.*;
 
-public class RelationsMapping {
+public class RelationsMappingTest {
 
     private EntityManager entityManager;
 
